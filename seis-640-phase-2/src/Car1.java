@@ -50,7 +50,8 @@ public class Car1 {
 	}
 
 	public String toString() {
-		return "SPEED" + "-------" + speed + "\n" + "COLOR" + color + "\n" + "SIZE" + size + "n\"";
+		return "SPEED" + "-------" + speed + "\n" + "COLOR" + "-------" + color + "\n" + "SIZE" + "-------" + size
+				+ "n\"";
 
 	}
 }
