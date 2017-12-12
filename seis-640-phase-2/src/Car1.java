@@ -2,8 +2,7 @@ public class Car1 {
 	public static void main(String[] args) {
 
 		Car1 car1 = new Car1();
-		car1.setSpeed(Car1.FAST);
-		car1.setsize(15);
+		
 		car1.setColor("RED");
 
 		System.out.println(car1.toString());
