@@ -2,7 +2,7 @@ public class Car1 {
 	public static void main(String[] args) {
 
 		Car1 car1 = new Car1();
-		car1.setSpeed(Car1.SLOW);
+		car1.setSpeed(Car1.MEDIUM);
 		car1.setsize(10);
 		car1.setColor("RED");
 
