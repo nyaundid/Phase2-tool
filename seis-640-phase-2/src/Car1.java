@@ -3,7 +3,7 @@ public class Car1 {
 
 		Car1 car1 = new Car1();
 
-		car1.setColor("WHITE");
+		car1.setColor("GREY");
 
 		System.out.println(car1.toString());
 
