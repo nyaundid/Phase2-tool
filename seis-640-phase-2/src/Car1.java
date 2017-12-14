@@ -5,7 +5,7 @@ public class Car1 {
 
 		car1.setColor("GRAPE");
 
-		car1.setSpeed(Car1.FAST);
+		car1.setSpeed(Car1.SLOW);
 
 		car1.setSpeed(Car1.SLOW);
 
