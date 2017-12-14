@@ -2,14 +2,13 @@ public class Car1 {
 	public static void main(String[] args) {
 
 		Car1 car1 = new Car1();
-<<<<<<< HEAD
 
 		car1.setColor("GRAPE");
 
 		car1.setSpeed(Car1.FAST);
-=======
+
 		car1.setSpeed(Car1.SLOW);
->>>>>>> refs/heads/branch_change_speed__car1
+
 		car1.setsize(10);
 		car1.setColor("RED");
 
@@ -57,7 +56,7 @@ public class Car1 {
 	}
 
 	public String toString() {
-		return "SPEED" + "" + speed + "\n" + "COLOR" + "" + color + "\n" + "SIZE" + "" + size + "n\"";
+		return "SPEED----" + "" + speed + "\n" + "COLOR" + "" + color + "\n" + "SIZE" + "" + size + "n\"";
 
 	}
 }
