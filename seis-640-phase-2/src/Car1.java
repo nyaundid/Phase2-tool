@@ -5,7 +5,7 @@ public class Car1 {
 		car1.setSpeed(Car1.FAST);
 		car1.setsize(10);
 		car1.setColor("RED");
-
+		System.out.println("HELL0");
 		System.out.println(car1.toString());
 
 	}
