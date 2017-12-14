@@ -9,7 +9,6 @@ public class Car1 {
 		car1.setsize(10);
 		car1.setColor("RED");
 
-
 		System.out.println(car1.toString());
 
 	}
@@ -54,8 +53,7 @@ public class Car1 {
 	}
 
 	public String toString() {
-		return "SPEED" + "-------" + speed + "\n" + "COLOR" + "-------" + color + "\n" + "SIZE" + "-------" + size
-				+ "n\"";
+		return "SPEED" + "" + speed + "\n" + "COLOR" + "" + color + "\n" + "SIZE" + "" + size + "n\"";
 
 	}
 }
