@@ -3,7 +3,7 @@ public class Car1 {
 
 		Car1 car1 = new Car1();
 
-		car1.setColor("GRAPE");
+		car1.setColor("slop");
 
 		car1.setSpeed(Car1.MEDUIM);
 
