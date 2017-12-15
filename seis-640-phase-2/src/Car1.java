@@ -56,7 +56,7 @@ public class Car1 {
 	}
 
 	public String toString() {
-		return "FAST" + "" + speed + "\n" + "K" + "" + color + "\n" + "SIZE" + "" + size + "n\"";
+		return "fast" + "" + speed + "\n" + "K" + "" + color + "\n" + "SIZE" + "" + size + "n\"";
 
 	}
 }
